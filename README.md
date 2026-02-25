@@ -3,6 +3,8 @@
 Slikovni izrezek pinout:
 <img width="694" height="551" alt="image" src="https://github.com/user-attachments/assets/ccb1962d-05b5-49b3-854a-451b0d5ea647" />
 
+fotografija vezave
+![Image](https://github.com/user-attachments/assets/4a078e49-c313-4e10-82ac-5e3ccedaee73)
 
 
 
@@ -45,3 +47,4 @@ LCD zaslon ne zna neposredno prikazati številske vrednosti. Sprejme lahko le AS
 
 Tretji argument določa številski sistem  za pretvorbo (10 pomeni decimalni sistem).
 
+KOMENTAR:LCD deluje in prikazuje pravilno.Učitelj bi nama moral pri 3.g nalogi dati znak ampak ker ga žal ni bilo sva uporabila znak pravokotnika kot je v navodilih, če bi želela uporabiti drug znak bi samo del kode iz 3.g naloge x se drugače razporedila oziroma jih postavila v obliki znaka ki bi nama ga učitelj dal.
