@@ -1,5 +1,7 @@
 # -Vaja11-LCD2x16-STM32F0
 
+Slikovni izrezek pinout:
+<img width="694" height="551" alt="image" src="https://github.com/user-attachments/assets/ccb1962d-05b5-49b3-854a-451b0d5ea647" />
 
 
 
